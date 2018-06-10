@@ -1,0 +1,2 @@
+1.程序数据库是mysql
+2.对于需要的jar包pom文件中没有列举全，mybatis和mysql连接的jar包请自行去maven仓库寻找
